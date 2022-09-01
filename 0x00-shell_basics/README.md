@@ -13,3 +13,4 @@
 12-file_type prints the type of a file
 13-symbolic_link creates a symbolic link to __ls__
 14-copy_html copies all the html files
+100-lets_move moves all the files beginning with an uppercase letter to the directory /tmp/u

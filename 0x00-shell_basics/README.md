@@ -15,3 +15,4 @@
 14-copy_html copies all the html files
 100-lets_move moves all the files beginning with an uppercase letter to the directory /tmp/u
 101-clean_emacs remove all files that ends with ~
+102-tree create directories welcome/ welcome/to/ and welcome/to/school

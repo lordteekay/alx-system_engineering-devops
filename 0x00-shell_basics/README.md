@@ -17,3 +17,4 @@
 101-clean_emacs remove all files that ends with ~
 102-tree create directories welcome/ welcome/to/ and welcome/to/school
 103-commas lists all files,directories and separated by commas
+school.mgc created a magic file school and can be used with the command file to detect school data files

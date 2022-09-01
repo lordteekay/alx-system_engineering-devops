@@ -5,3 +5,4 @@
 4-listmorefiles to show hidden files
 5-listfilesdigitonly display current directory contents
 6-firstdirectory creates a directory named my_first_directory in the /tmp/ directory
+7-movethatfile move betty from /tmp/ to /tmp/my_first_directory

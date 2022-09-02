@@ -9,3 +9,4 @@
 8-James_Bond set no permission for users and group but set all permissions for others
 9-John_Doe sets the mode of the file hello to -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 10-mirror_permissions sets the mode of the file hello the same as olleh’s mode
+11-directories_permissions dds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
